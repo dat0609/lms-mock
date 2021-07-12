@@ -1,4 +1,4 @@
 # lms-mock
 Mock Project of developing an LMS
-#Idea 
-1 2 3
+# Idea 
+1 2 3 
